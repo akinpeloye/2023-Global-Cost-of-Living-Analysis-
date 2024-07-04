@@ -1,11 +1,11 @@
 # 2023-Global-Cost-of-Living-Analysis-
-This project provides a detailed analysis and comparison of the cost of living across various countries, highlighting key factors such as rent, groceries, and restaurant prices to inform individuals and policymakers.
+This project provides a detailed analysis and comparison of the cost of living across various countries, highlighting key factors such as rent, groceries, and restaurant prices to inform individuals and policymakers. [Click here to view the Report](https://app.powerbi.com/view?r=eyJrIjoiZTk5ZDFiMDEtMmM1OS00ZDRjLTlkZDMtZDE5NjlhZTcwYWQ3IiwidCI6ImU0ZjcyZThjLTZiZjUtNGZmZS1iZjFlLWY4YWY0MzM1MDNiMyIsImMiOjh9)
 
 ## Project Objectives:
-i.	To identify the countries with the highest and lowest living costs, including rent and restaurant expenses.
-ii.	To analyze and compare the cost-of-living data across different continents.
-iii.	To highlight the affordability of countries by examining specific categories such as groceries and restaurant prices.
-iv.	To provide insights into local purchasing power and its impact on the overall cost of living.
+i. To identify the countries with the highest and lowest living costs, including rent and restaurant expenses.
+ii. To analyze and compare the cost-of-living data across different continents.
+iii. To highlight the affordability of countries by examining specific categories such as groceries and restaurant prices.
+iv. To provide insights into local purchasing power and its impact on the overall cost of living.
 
 ## Project Problem
 Understanding the global cost of living variations is crucial for expatriates, businesses, and policymakers to make informed decisions. There is a need for a comprehensive analysis that compares different countries and regions, considering various living expenses.
